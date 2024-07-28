@@ -1,0 +1,32 @@
+{
+  "name": "dobo-memory",
+  "version": "1.0.0",
+  "description": "Bajo DB Memory driver for Bajo Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/dobo-memory.git"
+  },
+  "keywords": [
+    "memory",
+    "mingo",
+    "db",
+    "driver",
+    "bajo",
+    "framework",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/dobo-memory/issues"
+  },
+  "homepage": "https://github.com/ardhi/dobo-memory#readme",
+  "dependencies": {
+    "mingo": "^6.4.15"
+  }
+}

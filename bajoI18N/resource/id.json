@@ -1,0 +1,4 @@
+{
+  "Invalid model for persistence: %s": "Model untuk penyimpanan tidak valid: %s",
+  "Can't load %s: %s": "Tidak bisa memuat %s: %s"
+}

@@ -1,0 +1,8 @@
+{
+  "alias": "dbmem",
+  "persistence": {
+    "models": [],
+    "period": 1
+  },
+  "dependencies": ["dobo"]
+}
